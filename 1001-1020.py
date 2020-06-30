@@ -22,7 +22,7 @@ print(a)#1010
 
 a = input()
 print(a)#1011
-
+ 
 a = float(input())
 print("%f" %a)#1012
 #%f는 무조건 소수점 아래 6자리까지 맞춰서 출력
